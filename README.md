@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-<img src= "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat />
+
 - 🔭 I’m interested in **Software Engineering** and building innovative tech solutions.
   
 - 🌱 I’m currently learning **full-stack development with Angular and Spring Boot, machine learning, and more.**
