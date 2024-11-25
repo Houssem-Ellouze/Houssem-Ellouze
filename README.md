@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to Web development, Machine Learning integration, and System Architecture.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://houcemellouze.github.io/Projet-Web-Portfolio/index.html)
+- 👨‍💻 [My Portfolio](https://houcemellouze.github.io/Projet-Web-Portfolio/index.html)
 
 - ⚡ Fun fact: **I enjoy transforming complex problems into efficient and scalable solutions, and I love tackling challenges in both Front-end and Back-end Development.**
 
