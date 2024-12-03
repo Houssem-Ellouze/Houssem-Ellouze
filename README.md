@@ -69,6 +69,13 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
+  <a href="https://www.postman.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+</a>
+<a href="https://swagger.io" target="_blank">
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/main/dist/favicon-32x32.png" alt="Swagger" width="50" height="50"/>
+</a>
+
 </p>
 
 ---
