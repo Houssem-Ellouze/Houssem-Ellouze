@@ -73,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
   </a>
   <a href="https://swagger.io" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Swagger-logo.svg" alt="Swagger" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/main/dist/swagger-logo.png" alt="Swagger" width="50" height="50"/>
 </a>
   <a href="https://symfony.com/" target="_blank">
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="50" height="50"/>
