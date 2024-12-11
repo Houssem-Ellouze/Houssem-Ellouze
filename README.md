@@ -76,7 +76,7 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="50" height="50"/>
   </a>
   <a href="https://www.netlify.com" target="_blank">
-    <img src="https://www.netlify.com/v3/img/components/logos/netlify-light.svg" alt="Netlify" width="50" height="50"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3029960.png" alt="Netlify" width="50" height="50"/>
 </a>
 
 </p>
