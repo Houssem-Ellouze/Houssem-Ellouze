@@ -93,8 +93,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=houssem-ellouze&show_icons=true&locale=en&theme=radical" alt="Houssem Ellouze's Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-ellouze&theme=radical" alt="Houssem Ellouze's Streak" />
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-ellouze&" alt="houssem-ellouze" /></p>
