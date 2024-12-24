@@ -128,5 +128,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssem-ellouze&" alt="houssem-ellouze" /></p>
-<br clear="both">
+
