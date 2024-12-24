@@ -41,6 +41,7 @@
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around; padding: 20px; background-color: #f8f9fa;">
   <div style="flex: 1; min-width: 300px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
+    <h1 align="center">Tech Stack</h1>
     <h3 align="center">Front-End Development</h3>
     <p align="center">
       <a href="https://angular.io" target="_blank">
