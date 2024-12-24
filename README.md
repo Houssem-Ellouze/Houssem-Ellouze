@@ -39,11 +39,11 @@
 </p>
 
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around; padding: 20px; background-color: #f8f9fa;">
-  <div style="flex: 1; min-width: 300px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
-    <h1 align="center">Tech Stack</h1>
-    <h3 align="center">Front-End Development</h3>
-    <p align="center">
+<h1>Tech Stack</h1>
+<div style="display: flex; flex-direction: column; gap: 20px; padding: 20px; background-color: #f8f9fa;">
+  <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
+    <h3 style="min-width: 200px;">Front-End Development</h3>
+    <div style="display: flex; gap: 15px;">
       <a href="https://angular.io" target="_blank">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
       </a>
@@ -59,12 +59,12 @@
       <a href="https://figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
       </a>
-    </p>
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #d1d8e0; padding: 20px; border-radius: 8px;">
-    <h3 align="center">Back-End Development</h3>
-    <p align="center">
+  <div style="display: flex; align-items: center; gap: 20px; background-color: #d1d8e0; padding: 20px; border-radius: 8px;">
+    <h3 style="min-width: 200px;">Back-End Development</h3>
+    <div style="display: flex; gap: 15px;">
       <a href="https://spring.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
       </a>
@@ -77,42 +77,43 @@
       <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
       </a>
-    </p>
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #dfe4ea; padding: 20px; border-radius: 8px;">
-    <h3 align="center">Databases</h3>
-    <p align="center">
+  <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe4ea; padding: 20px; border-radius: 8px;">
+    <h3 style="min-width: 200px;">Databases</h3>
+    <div style="display: flex; gap: 15px;">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
       </a>
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
       </a>
-    </p>
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #f1f2f6; padding: 20px; border-radius: 8px;">
-    <h3 align="center">Testing and API Tools</h3>
-    <p align="center">
+  <div style="display: flex; align-items: center; gap: 20px; background-color: #f1f2f6; padding: 20px; border-radius: 8px;">
+    <h3 style="min-width: 200px;">Testing and API Tools</h3>
+    <div style="display: flex; gap: 15px;">
       <a href="https://www.postman.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
       </a>
       <a href="https://swagger.io/tools/swagger-ui/" target="_blank">
         <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="SwaggerUI" width="50" height="50"/>
       </a>
-    </p>
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; background-color: #d6e0f5; padding: 20px; border-radius: 8px;">
-    <h3 align="center">Deployment Platforms</h3>
-    <p align="center">
+  <div style="display: flex; align-items: center; gap: 20px; background-color: #d6e0f5; padding: 20px; border-radius: 8px;">
+    <h3 style="min-width: 200px;">Deployment Platforms</h3>
+    <div style="display: flex; gap: 15px;">
       <a href="https://www.netlify.com" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3029960.png" alt="Netlify" width="50" height="50"/>
       </a>
-    </p>
+    </div>
   </div>
 </div>
+
 
 
 
