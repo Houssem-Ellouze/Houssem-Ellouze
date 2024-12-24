@@ -39,7 +39,7 @@
 </p>
 
 ---
-
+<h2>Languages and Frameworks</h2>
 <h3 align="left">Front-End Development</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank">
