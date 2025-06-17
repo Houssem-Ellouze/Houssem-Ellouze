@@ -39,13 +39,13 @@
 </p>
 
 ---
-<h1>Tech Stack</h1>
-<div style="display: flex; flex-direction: column; gap: 20px; padding: 20px; background-color: #f8f9fa;">
+<h1 style="text-align: center; margin-bottom: 30px;">Tech Stack</h1>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 20px; background-color: #f8f9fa;">
 
   <!-- Front-End Development -->
-  <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
-    <h3 style="min-width: 200px;">Front-End Development</h3>
-    <div style="display: flex; gap: 15px;">
+  <div style="flex: 1 1 300px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
+    <h3 style="text-align: center;">Front-End Development</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
       <a href="https://angular.io" target="_blank">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
       </a>
@@ -65,9 +65,9 @@
   </div>
 
   <!-- Back-End Development -->
-  <div style="display: flex; align-items: center; gap: 20px; background-color: #d1d8e0; padding: 20px; border-radius: 8px;">
-    <h3 style="min-width: 200px;">Back-End Development</h3>
-    <div style="display: flex; gap: 15px;">
+  <div style="flex: 1 1 300px; background-color: #d1d8e0; padding: 20px; border-radius: 8px;">
+    <h3 style="text-align: center;">Back-End Development</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
       <a href="https://spring.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
       </a>
@@ -84,9 +84,9 @@
   </div>
 
   <!-- Databases -->
-  <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe4ea; padding: 20px; border-radius: 8px;">
-    <h3 style="min-width: 200px;">Databases</h3>
-    <div style="display: flex; gap: 15px;">
+  <div style="flex: 1 1 300px; background-color: #dfe4ea; padding: 20px; border-radius: 8px;">
+    <h3 style="text-align: center;">Databases</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
       </a>
@@ -100,9 +100,9 @@
   </div>
 
   <!-- Testing and API Tools -->
-  <div style="display: flex; align-items: center; gap: 20px; background-color: #f1f2f6; padding: 20px; border-radius: 8px;">
-    <h3 style="min-width: 200px;">Testing and API Tools</h3>
-    <div style="display: flex; gap: 15px;">
+  <div style="flex: 1 1 300px; background-color: #f1f2f6; padding: 20px; border-radius: 8px;">
+    <h3 style="text-align: center;">Testing & API Tools</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px;">
       <a href="https://www.postman.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
       </a>
@@ -113,9 +113,9 @@
   </div>
 
   <!-- Deployment Platforms -->
-  <div style="display: flex; align-items: center; gap: 20px; background-color: #d6e0f5; padding: 20px; border-radius: 8px;">
-    <h3 style="min-width: 200px;">Deployment Platforms</h3>
-    <div style="display: flex; gap: 15px;">
+  <div style="flex: 1 1 300px; background-color: #d6e0f5; padding: 20px; border-radius: 8px;">
+    <h3 style="text-align: center;">Deployment Platforms</h3>
+    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px;">
       <a href="https://www.netlify.com" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3029960.png" alt="Netlify" width="50" height="50"/>
       </a>
@@ -126,10 +126,6 @@
   </div>
 
 </div>
-
-
-
-
 
 
 
