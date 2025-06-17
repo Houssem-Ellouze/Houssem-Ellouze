@@ -41,6 +41,8 @@
 ---
 <h1>Tech Stack</h1>
 <div style="display: flex; flex-direction: column; gap: 20px; padding: 20px; background-color: #f8f9fa;">
+
+  <!-- Front-End Development -->
   <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe6e9; padding: 20px; border-radius: 8px;">
     <h3 style="min-width: 200px;">Front-End Development</h3>
     <div style="display: flex; gap: 15px;">
@@ -62,6 +64,7 @@
     </div>
   </div>
 
+  <!-- Back-End Development -->
   <div style="display: flex; align-items: center; gap: 20px; background-color: #d1d8e0; padding: 20px; border-radius: 8px;">
     <h3 style="min-width: 200px;">Back-End Development</h3>
     <div style="display: flex; gap: 15px;">
@@ -74,9 +77,13 @@
       <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
       </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/>
+      </a>
     </div>
   </div>
 
+  <!-- Databases -->
   <div style="display: flex; align-items: center; gap: 20px; background-color: #dfe4ea; padding: 20px; border-radius: 8px;">
     <h3 style="min-width: 200px;">Databases</h3>
     <div style="display: flex; gap: 15px;">
@@ -86,9 +93,13 @@
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
       </a>
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+      </a>
     </div>
   </div>
 
+  <!-- Testing and API Tools -->
   <div style="display: flex; align-items: center; gap: 20px; background-color: #f1f2f6; padding: 20px; border-radius: 8px;">
     <h3 style="min-width: 200px;">Testing and API Tools</h3>
     <div style="display: flex; gap: 15px;">
@@ -101,14 +112,19 @@
     </div>
   </div>
 
+  <!-- Deployment Platforms -->
   <div style="display: flex; align-items: center; gap: 20px; background-color: #d6e0f5; padding: 20px; border-radius: 8px;">
     <h3 style="min-width: 200px;">Deployment Platforms</h3>
     <div style="display: flex; gap: 15px;">
       <a href="https://www.netlify.com" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3029960.png" alt="Netlify" width="50" height="50"/>
       </a>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+      </a>
     </div>
   </div>
+
 </div>
 
 
