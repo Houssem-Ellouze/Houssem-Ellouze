@@ -13,7 +13,7 @@
 - 🔭 **Interests:** Software Engineering, Web Architecture & Innovative Tech Solutions  
 - 🌱 **Currently Learning:** Full-Stack Development (Angular & Spring Boot), AI/ML, Cloud Deployment  
 - 🤝 **Open to Collaborate On:** Web Apps, Scalable Backends, ML-integrated Platforms  
-- 👨‍💻 **Portfolio:** [Houssem Ellouze](https://houssem-ellouze.netlify.app/)  
+- 👨‍💻 **Portfolio:** [MY PORTFOLIO](https://houssem-ellouze.netlify.app/)  
 - ⚡ **Fun Fact:** I love transforming complex problems into elegant and efficient solutions ✨
 
 ---
